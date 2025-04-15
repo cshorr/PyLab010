@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Shelve files (Chapter 13 storage)
+device_log.db
+device_log.dat
+device_log.bak
+device_log.dir
+
+
+
